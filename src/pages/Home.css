@@ -1,0 +1,28 @@
+/* src/pages/Home.css */
+
+.home {
+    padding: 20px;
+    text-align: center;
+}
+
+.featured-products {
+    margin-top: 20px;
+}
+
+.featured-products ul {
+    list-style: none;
+    padding: 0;
+}
+
+.featured-products li {
+    margin: 10px 0;
+}
+
+.featured-products a {
+    text-decoration: none;
+    color: #2f8fef;
+}
+
+.featured-products a:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,13 @@
+/* src/components/ProductDetail.css */
+
+.product-detail {
+    padding: 20px;
+}
+
+.product-detail h2 {
+    margin-bottom: 10px;
+}
+
+.product-detail p {
+    margin: 5px 0;
+}
